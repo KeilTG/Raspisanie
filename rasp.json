@@ -1,0 +1,21 @@
+{
+    "1ip6":{
+        "Monday": ["mat 8:30","russ 9:15","angl 10:00"],
+        "Tuesday": ["aaa","jjj","123"],
+        "Wednesday": ["123","222","000"],
+        "Thursday": ["aaa","jjj","123"],
+        "Friday": ["aaa","jjj","123"],
+        "Saturday": ["aaa","jjj","123"],
+        "Sunday": ["aaa","jjj","123"]
+    },
+        "1vr1":{
+        "Monday": ["mat","russ","angl"],
+        "Tuesday": ["aaa","jjj","123"],
+        "Wednesday": ["123","222","000"],
+        "Thursday": ["aaa","jjj","123"],
+        "Friday": ["aaa","jjj","123"],
+        "Saturday": ["mat 8:30","russ 9:15","angl 10:00"],
+        "Sunday": ["aaa","jjj","123"]
+    }
+    
+}
